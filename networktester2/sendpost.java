@@ -12,7 +12,7 @@ import java.net.URL;
 
 
 /**
- * Created by mike on 2/16/2017.
+ * Created by HarmonyIdeas on 2/16/2017.
  */
 
 public class SendPost extends AsyncTask<String, int[], String> {
